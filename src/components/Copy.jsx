@@ -36,7 +36,7 @@ const Copy = () => {
 
       <div className="flex flex-col gap-5">
          <h2 className="px-4 text-4xl font-bold border-b border-[rgba(128,121,121,0.3)] pb-4">
-            All Pastes
+            All Copies
           </h2>
 
         {filteredData.length > 0 &&
